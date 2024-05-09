@@ -3,7 +3,7 @@ import subprocess
 
 def update_script():
     # URL of the raw script on GitHub
-    url = "https://raw.githubusercontent.com/your_username/your_repository/master/your_script.py"
+    url = "https://raw.githubusercontent.com/GeoToboGaming/test/master/test.py"
 
     # Fetch the raw content of the script
     response = requests.get(url)
